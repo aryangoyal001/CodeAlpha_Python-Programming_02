@@ -1,4 +1,4 @@
-## Task 1 - Stock Portfolio Tracker
+## Task 2 - Stock Portfolio Tracker
 - This is my **Second Task** for the **CodeAlpha Python-Programming Internship**.
   -  This stock portfolio tracker is a Python application designed to help users manage and monitor their investment portfolios.
 ---
@@ -30,7 +30,7 @@
 
 ---
  ## Technologies Used
-- Python 3
+- Python 
 - Standard libraries:
     - difflib – for stock name suggestions
     - os (optional) – for file handling (open saved file)
@@ -47,7 +47,7 @@
 ---
 ## Some Important Files in This Folder
 
-- `main.py` → The main python code
+- `stock.py` → The main python code
 - `readme.md` → This description file
 
 ---
